@@ -1,0 +1,20 @@
+{
+    "count": "3",
+    "value": [
+        {
+            "relative_url": "DataEngineerProject/refs/heads/main/Datasets/AdventureWorks_Calendar.csv",
+            "directory_name":"AdventureWorks_Calendar",
+            "file_name":"AdventureWorks_Calendar.csv"
+        },
+        {
+            "relative_url": "DataEngineerProject/refs/heads/main/Datasets/AdventureWorks_Product_Categories.csv",
+            "directory_name":"AdventureWorks_Product_Categories",
+            "file_name":"AdventureWorks_Product_Categories.csv"
+        },
+        {
+            "relative_url": "DataEngineerProject/refs/heads/main/Datasets/AdventureWorks_Products.csv",
+            "directory_name":"AdventureWorks_Products",
+            "file_name":"AdventureWorks_Products.csv"
+        }
+    ]
+} 
